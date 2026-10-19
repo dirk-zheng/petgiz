@@ -5,7 +5,7 @@ import { useAuth } from '../context/AuthContext';
 import wsClient from '../api/ws';
 import FloatingSupport from './FloatingSupport';
 
-const CLICKED_KEY = 'curva_denim_buyer_support_clicked';
+const CLICKED_KEY = 'petgiz_b2b_support_clicked';
 
 //渲染:渲染SupportWidget组件或页面内容
 export default function SupportWidget() {

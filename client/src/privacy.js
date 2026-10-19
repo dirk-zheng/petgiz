@@ -1,6 +1,6 @@
 export const PRIVACY_PREFERENCES_KEY = 'curva_privacy_preferences_v1';
-export const VISITOR_ID_KEY = 'curva_denim_guest_id';
-export const SESSION_VISITOR_ID_KEY = 'curva_denim_session_id';
+export const VISITOR_ID_KEY = 'petgiz_b2b_guest_id';
+export const SESSION_VISITOR_ID_KEY = 'petgiz_b2b_session_id';
 export const PRIVACY_EVENT = 'curva:privacy-change';
 
 export const defaultPrivacyPreferences = Object.freeze({
@@ -45,5 +45,5 @@ export function savePrivacyPreferences({ analytics }) {
 }
 
 export function clearOptionalLocalData() {
-  localStorage.removeItem('curva_denim_buyer_support_clicked');
+  localStorage.removeItem('petgiz_b2b_support_clicked');
 }

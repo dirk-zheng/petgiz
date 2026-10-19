@@ -1,17 +1,13 @@
 import { useState } from 'react';
-import { Plus, Edit2, Trash2, X, Shirt, Package } from 'lucide-react';
+import { Plus, Edit2, Trash2, X, Package } from 'lucide-react';
 import { useStore } from '../context/StoreContext';
 import { categories, categoryNames } from '../data/products';
 
-const categoryIcons = {
-  'jeans': Shirt,
-  'denim-skirts': Shirt,
-  'denim-jackets': Shirt,
-};
+const categoryIcons = Object.fromEntries(categories.filter(({ id }) => id !== 'all').map(({ id }) => [id, Package]));
 
 const initialForm = {
   name: '',
-  category: 'jeans',
+  category: 'harnesses',
   moq: '',
   leadTime: '',
   image: '',
@@ -341,7 +337,7 @@ export default function Admin() {
                                 //处理页面交互事件
                                 return setForm({ ...form, moq: e.target.value });
                               }}
-                    placeholder="e.g. 14W–34W by wash"
+                    placeholder="e.g. XS–XL or product-specific dimensions"
                     className="w-full px-4 py-3 rounded-xl bg-white border border-dark-200 focus:border-primary focus:ring-2 focus:ring-primary/10"
                   />
                 </div>

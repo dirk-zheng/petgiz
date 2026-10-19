@@ -124,8 +124,8 @@ async function startServer() {
   wsServer = createWSServer(server);
   server.listen(PORT, HOST, () => {
   console.log('╔══════════════════════════════════════════╗');
-  console.log('║     Curva Denim                          ║');
-  console.log('║     Plus-Size Denim · U.S. Market        ║');
+  console.log('║     Petgiz B2B Pet Supplies              ║');
+  console.log('║     Wholesale Catalog · Global Sourcing  ║');
   console.log(`║   HTTP:   http://${displayHost}:${PORT}                    ║`);
   console.log(`║   WS:     ws://${displayHost}:${PORT}/ws                    ║`);
   console.log(`║   Mode:   ${ENV}                  ║`);
