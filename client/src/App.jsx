@@ -5,6 +5,7 @@ import { StoreProvider } from './context/StoreContext';
 import { QuoteModalProvider, useQuoteModal } from './context/QuoteModalContext';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import SupportWidget from './components/SupportWidget';
 import HomePage from './pages/HomePage';
 import Products from './pages/Products';
 import About from './pages/About';
@@ -122,6 +123,7 @@ export function AppContent({ initialProducts = [], initialFaqs = [], initialArti
               </Routes>
             </main>
             <Footer />
+            <SupportWidget />
 
           </div>
           </QuoteLinkInterceptor>

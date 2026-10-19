@@ -85,6 +85,7 @@ export default function SupportWidget() {
   }, []);
 
   const unreadCount = unreadSenders.size;
+  const showIndicator = showDot || isCustomer;
 
   if (isStaff) {
     return (
@@ -107,7 +108,7 @@ export default function SupportWidget() {
         aria-label={isOpen ? 'Close wholesale buyer support' : 'Open wholesale buyer support'}
       >
         {/* Big Red Dot */}
-        {showDot && (
+        {showIndicator && (
           <span className="absolute right-0.5 top-0.5 flex h-10 min-w-10 items-center justify-center rounded-full border-[5px] border-white bg-red-500 shadow-xl animate-pulse">
             {isStaff && unreadCount > 0 ? (
               <span className="text-white text-[10px] font-bold leading-none px-1">
