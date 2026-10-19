@@ -1,0 +1,445 @@
+[
+  {
+    "id": "walk4",
+    "name": "Printed Mesh 4-Piece Dog Walking Set",
+    "category": "travel-set",
+    "image": "/pets/catalog/WALK4.jpg",
+    "description": "Coordinated pet travel solution combining carry, walk and accessory functions for wholesale programs.",
+    "specs": [
+      "Multi-piece or integrated travel configuration",
+      "Travel-ready hardware and carry details",
+      "Suitable for custom color and branding programs",
+      "Retail packaging options available"
+    ],
+    "applications": "Pet travel bundles, seasonal assortments and private-label collections.",
+    "sizes": "Product-specific size options available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Travel sets",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "pvcleash",
+    "name": "Waterproof PVC-Coated Dog Leash",
+    "category": "leashes",
+    "image": "/pets/catalog/PVCLEASH.jpeg",
+    "description": "Durable dog walking leash developed for wholesale, retail and private-label programs.",
+    "specs": [
+      "Durable webbing or PVC-coated construction",
+      "Secure metal hardware",
+      "Suitable for OEM colors, logos and packaging",
+      "Bulk order support available"
+    ],
+    "applications": "Daily dog walking, outdoor retail and private-label leash collections.",
+    "sizes": "Product-specific size options available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Leashes",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "macaron",
+    "name": "Macaron Adjustable Soft Pet Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/MACARON.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "tie10",
+    "name": "10 m Heavy-Duty Dog Tie-Out Cable",
+    "category": "leashes",
+    "image": "/pets/catalog/TIE10.jpg",
+    "description": "Durable dog walking leash developed for wholesale, retail and private-label programs.",
+    "specs": [
+      "Durable webbing or PVC-coated construction",
+      "Secure metal hardware",
+      "Suitable for OEM colors, logos and packaging",
+      "Bulk order support available"
+    ],
+    "applications": "Daily dog walking, outdoor retail and private-label leash collections.",
+    "sizes": "Product-specific size options available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Leashes",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "shock01",
+    "name": "Shock-Absorbing Leash with Waste Bag Pocket",
+    "category": "leashes",
+    "image": "/pets/catalog/SHOCK01.jpg",
+    "description": "Durable dog walking leash developed for wholesale, retail and private-label programs.",
+    "specs": [
+      "Durable webbing or PVC-coated construction",
+      "Secure metal hardware",
+      "Suitable for OEM colors, logos and packaging",
+      "Bulk order support available"
+    ],
+    "applications": "Daily dog walking, outdoor retail and private-label leash collections.",
+    "sizes": "Product-specific size options available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Leashes",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "shock02",
+    "name": "Elastic Shock-Absorbing Leash with Waste Bag Pocket",
+    "category": "leashes",
+    "image": "/pets/catalog/SHOCK02.jpg",
+    "description": "Durable dog walking leash developed for wholesale, retail and private-label programs.",
+    "specs": [
+      "Durable webbing or PVC-coated construction",
+      "Secure metal hardware",
+      "Suitable for OEM colors, logos and packaging",
+      "Bulk order support available"
+    ],
+    "applications": "Daily dog walking, outdoor retail and private-label leash collections.",
+    "sizes": "Product-specific size options available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Leashes",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "hfd001",
+    "name": "Full-Body Dog Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/HFD001.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "hpd005",
+    "name": "Two-Tone Adjustable Dog Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/HPD005.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "hpd004",
+    "name": "Gradient Webbing Dog Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/HPD004.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "hpd003",
+    "name": "Tri-Color Adjustable Dog Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/HPD003.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "hpd002",
+    "name": "Heat-Transfer Print Dog Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/HPD002.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "hpd001",
+    "name": "Printed Fabric Overlay Dog Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/HPD001.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "hbd002",
+    "name": "Reflective Dog Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/HBD002.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "hbd001",
+    "name": "Solid-Color Dog Harness",
+    "category": "harnesses",
+    "image": "/pets/catalog/HBD001.jpg",
+    "description": "Adjustable webbing harness designed for a secure everyday fit, with OEM-ready color, print and packaging options.",
+    "specs": [
+      "Material: Polyester webbing, ABS buckle and steel hardware",
+      "Adjustable neck and chest straps",
+      "Quick-release buckle and rear D-ring",
+      "OEM colors, prints, labels and packaging available"
+    ],
+    "applications": "Daily walking, retail collections and private-label harness programs.",
+    "sizes": "Multiple sizes available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Harnesses",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "crb009",
+    "name": "Soft Pet Carrier Backpack, Multi-Size",
+    "category": "pet-backpacks",
+    "image": "/pets/catalog/CRB009.jpeg",
+    "description": "Hands-free pet carrier backpack built for city outings, short trips and wholesale pet travel ranges.",
+    "specs": [
+      "Structured or soft backpack construction",
+      "Ventilated pet compartment",
+      "Adjustable shoulder straps and top carry handle",
+      "OEM colors, labels and packaging available"
+    ],
+    "applications": "Urban pet transport, short trips and pet travel retail programs.",
+    "sizes": "Multiple dimensions available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Pet backpacks",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "crb008",
+    "name": "Soft-Sided Pet Carrier Shoulder Bag",
+    "category": "pet-carriers",
+    "image": "/pets/catalog/CRB008.jpeg",
+    "description": "Soft-sided pet carrier with structured support and ventilation for comfortable short-distance travel.",
+    "specs": [
+      "Reinforced soft-sided construction",
+      "Ventilation panels and secure zip entry",
+      "Hand-carry and shoulder-carry options",
+      "Custom colors, branding and packaging available"
+    ],
+    "applications": "Retail carrier programs, city travel and short trips.",
+    "sizes": "Product-specific dimensions available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Pet carriers",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "crb007",
+    "name": "Structured Pet Carrier Backpack",
+    "category": "pet-backpacks",
+    "image": "/pets/catalog/CRB007.jpeg",
+    "description": "Hands-free pet carrier backpack built for city outings, short trips and wholesale pet travel ranges.",
+    "specs": [
+      "Structured or soft backpack construction",
+      "Ventilated pet compartment",
+      "Adjustable shoulder straps and top carry handle",
+      "OEM colors, labels and packaging available"
+    ],
+    "applications": "Urban pet transport, short trips and pet travel retail programs.",
+    "sizes": "Multiple dimensions available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Pet backpacks",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "crb005",
+    "name": "Portable Soft-Sided Carrier for Small Dogs & Cats",
+    "category": "cat-carriers",
+    "image": "/pets/catalog/CRB005.jpeg",
+    "description": "Portable carrier designed for small pets and cats, with travel-friendly structure and ventilation.",
+    "specs": [
+      "Carrier structure with pet-access opening",
+      "Ventilation for everyday transport",
+      "Suitable for cats and small dogs",
+      "Private-label packaging available"
+    ],
+    "applications": "Cat travel, small-pet transport and retail collections.",
+    "sizes": "Product-specific dimensions available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Cat carriers",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "crb004",
+    "name": "Harness Carrier Bag with Integrated Leash Set",
+    "category": "travel-set",
+    "image": "/pets/catalog/CRB004.jpeg",
+    "description": "Coordinated pet travel solution combining carry, walk and accessory functions for wholesale programs.",
+    "specs": [
+      "Multi-piece or integrated travel configuration",
+      "Travel-ready hardware and carry details",
+      "Suitable for custom color and branding programs",
+      "Retail packaging options available"
+    ],
+    "applications": "Pet travel bundles, seasonal assortments and private-label collections.",
+    "sizes": "Product-specific size options available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Travel sets",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "crb003",
+    "name": "Pet Carrier Crossbody Backpack",
+    "category": "pet-backpacks",
+    "image": "/pets/catalog/CRB003.jpg",
+    "description": "Hands-free pet carrier backpack built for city outings, short trips and wholesale pet travel ranges.",
+    "specs": [
+      "Structured or soft backpack construction",
+      "Ventilated pet compartment",
+      "Adjustable shoulder straps and top carry handle",
+      "OEM colors, labels and packaging available"
+    ],
+    "applications": "Urban pet transport, short trips and pet travel retail programs.",
+    "sizes": "Multiple dimensions available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Pet backpacks",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  },
+  {
+    "id": "crb002",
+    "name": "Large Bubble Window Pet Carrier Backpack",
+    "category": "cat-carriers",
+    "image": "/pets/catalog/CRB002.jpg",
+    "description": "Portable carrier designed for small pets and cats, with travel-friendly structure and ventilation.",
+    "specs": [
+      "Carrier structure with pet-access opening",
+      "Ventilation for everyday transport",
+      "Suitable for cats and small dogs",
+      "Private-label packaging available"
+    ],
+    "applications": "Cat travel, small-pet transport and retail collections.",
+    "sizes": "Product-specific dimensions available on request",
+    "wash": "Care instructions available on request",
+    "badge": "Cat carriers",
+    "moq": "MOQ available on request",
+    "leadTime": "Lead time confirmed with quotation",
+    "price": 0,
+    "stock": 100
+  }
+]
+
+
